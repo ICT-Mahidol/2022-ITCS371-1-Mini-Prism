@@ -1,6 +1,6 @@
 # 2022-ITCS371-1-Mini-Prism
 
-**Hi! We are MINI PRISM**
+**Life is like a prism, we are MINI PRISM!**
 
 **Team Members**
 - Miss	Promubsorn	Boonrod 			  6388007
@@ -10,4 +10,4 @@
 - Miss 	Busarin 		Jensai 			    6388163
 - Miss	Pantaree 		Prasongsuk 		  6388194 
 
-Phase 1 Presentation URL: https://drive.google.com/file/d/1Hcckx-l8h2w1MeaJ7B6qou_ZIp06XxzG/view
+### Phase 1 Presentation URL: https://drive.google.com/file/d/1Hcckx-l8h2w1MeaJ7B6qou_ZIp06XxzG/view
