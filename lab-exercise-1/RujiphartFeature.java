@@ -1,7 +1,7 @@
-  public class RujiphartFeature {
+public class RujiphartFeature {
       public void feature() {
-          // this is a new feature
-          int x = 0;
+          // this is a new featured
+          int x = 0; 
           x = x+1;
       }
   }
