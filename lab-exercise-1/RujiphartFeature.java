@@ -1,5 +1,7 @@
-  public class <Yourname>Feature {
+public class RujiphartFeature {
       public void feature() {
-          // this is a new feature
+          // this is a new featured
+          int x = 0; 
+          x = x+1;
       }
   }
