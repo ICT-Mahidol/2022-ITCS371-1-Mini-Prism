@@ -10,7 +10,7 @@
 - Miss 	Busarin 		Jensai 			    6388163
 - Miss	Pantaree 		Prasongsuk 		  6388194 
 
-### Phase 2 Presentation URL:
+### Phase 2 Presentation URL: https://drive.google.com/file/d/1NMHdbH09k2mnKY76uYuLv0lRosD6mSbY/view?usp=share_link
 
 <hr>
 
